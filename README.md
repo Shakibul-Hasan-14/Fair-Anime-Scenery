@@ -1,4 +1,4 @@
-# Fair Anime Scenery using GLUT Project
+# Fair Anime Scenery using OpenGL GLUT Project
 This graphics design was created using the OpenGL GLUT Project in CodeBlocks using C++ Language.
 The project code (main.cpp) has been uploaded.
 
